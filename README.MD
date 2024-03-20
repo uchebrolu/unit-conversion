@@ -38,4 +38,3 @@ Priority tasks for improving the solution:
 3. Implement automated tests for the conversion and grading logic.
 4. Improve error handling for invalid inputs.
 5. Implement a web-based interface for easier access and usability.
-L
